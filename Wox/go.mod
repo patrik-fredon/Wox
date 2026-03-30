@@ -1,6 +1,6 @@
 module wox
 
-go 1.23.0
+go 1.25.0
 
 require (
 	github.com/Masterminds/semver/v3 v3.2.1
@@ -43,7 +43,7 @@ require (
 	github.com/wissance/stringFormatter v1.2.0
 	go.uber.org/zap v1.27.0
 	golang.design/x/hotkey v0.4.1
-	golang.org/x/image v0.15.0
+	golang.org/x/image v0.38.0
 	golang.org/x/sys v0.21.0
 	google.golang.org/api v0.172.0
 	howett.net/plist v1.0.1
@@ -93,8 +93,8 @@ require (
 	golang.org/x/exp v0.0.0-20230817173708-d852ddb80c63 // indirect
 	golang.org/x/net v0.22.0 // indirect
 	golang.org/x/oauth2 v0.18.0 // indirect
-	golang.org/x/sync v0.6.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
+	golang.org/x/text v0.35.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240311132316-a219d84964c2 // indirect
